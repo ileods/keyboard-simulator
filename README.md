@@ -4,7 +4,7 @@
 
 # Функционал 
   * Скорость печати
-  * Количество ошибок (неправильно нажатых кнопок)
+  * Процент ошибок
 
 # GitHub Pages
 <a href="https://ileods.github.io/keyboard-simulator/">Тренажер</a> 
